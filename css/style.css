@@ -25,6 +25,15 @@ h3 {
  
 }
 
+h3.qoutes {
+  color: Red;
+  font-size: 135%;
+  margin-left: 40px;
+  right:200px;
+ 
+}
+
+
 ul {
 	color: green;
   text-align: justify;
@@ -70,6 +79,19 @@ div.about-me {
 	
 }
 
+
+div.qoutes {
+	color: black;
+	margin-left: 50px;
+	margin-right: 40px;
+	font-weight: 500;
+	font-size: 120%;
+	text-align: left;
+	line-height: 160%;
+	
+}
+
+
 div.about-me-des {
 	color: black;
 	margin-left: 50px;
@@ -99,3 +121,8 @@ div.about-me-des {
  
 	
 }
+
+
+
+
+
