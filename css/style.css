@@ -63,11 +63,13 @@ p.1 {
 }
 
 
+
+
 img {
   display: block;
-  margin-left: auto;
+  margin-left: 10;
   margin-right: auto;
-  width: 20%;
+  height: 50%;
 }
 
 div.about-me {
