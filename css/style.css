@@ -38,7 +38,7 @@ ul.qoutes{
 	margin-left: 50px;
 	margin-right: 40px;
 	font-weight: 500;
-	font-size: 120%;
+	font-size: 110%;
 	text-align: left;
 	line-height: 160%;
 	
@@ -143,3 +143,6 @@ div img{
 	height: 60%;
 }
 
+.bottom-three {
+     padding-bottom: 0cm
+  }
