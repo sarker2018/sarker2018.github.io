@@ -1,20 +1,20 @@
 body {
-  background-color: lightblue;
-  text-align: justify;
-  left:200px;
-  right:200px;
-  font-size: 130%;
-  margin-right: 40px;
-  margin-left: 40px;
+	background-color: lightblue;
+	text-align: justify;
+	left:200px;
+	right:200px;
+	font-size: 130%;
+	margin-right: 40px;
+	margin-left: 40px;
 }
 
 h2 {
-  color: Ble;
-  font-weight: 900;
-  text-align: center;
-  left:200px;
-  right:200px;
-  font-size: 200%;
+	color: Ble;
+	font-weight: 900;
+	text-align: center;
+	left:200px;
+	right:200px;
+	font-size: 200%;
 }
 
 h3 {
@@ -26,65 +26,76 @@ h3 {
 }
 
 h3.qoutes {
-  color: Red;
-  font-size: 135%;
-  margin-left: 40px;
-  right:200px;
+	color: Red;
+	font-size: 135%;
+	margin-left: 40px;
+	right:200px;
  
 }
 
+ul.qoutes{
+	color: #560f41;
+	margin-left: 50px;
+	margin-right: 40px;
+	font-weight: 500;
+	font-size: 120%;
+	text-align: left;
+	line-height: 160%;
+	
+}
 
 ul {
 	color: green;
-  text-align: justify;
-  font-size: 100%;
-  margin-left: 40px;
+	text-align: justify;
+	font-size: 100%;
+	margin-left: 40px;
 	
 	
 	
 }
 
 div {
-  color: Red;
-  text-align: justify;
-  font-size: 120%;
-  margin-left: 50px;
+	color: Red;
+	text-align: justify;
+	font-size: 120%;
+	margin-left: 50px;
 }
 
 
 p {
-  font-family: verdana;
-  font-size: 40px;
+	font-family: verdana;
+	font-size: 40px;
 }
 
 p.1 {
-  font-family: verdana;
-  font-size: 100px;
+	font-family: verdana;
+	font-size: 100px;
 }
 
 
 
 
 img {
-  display: block;
-  margin-left: 10;
-  margin-right: auto;
-  height: 50%;
+	display: block;
+	margin-left: 10;
+	margin-right: auto;
+	height: 50%;
 }
 
 
 div.about-me {
 	color: Red;
-    margin-left: auto;
-  margin-right: auto;
-  font-size: 200%;
-  text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 200%;
+	text-align: center;
 	
 }
 
 
 div.qoutes {
-	color: black;
+
+	color: Red;
 	margin-left: 50px;
 	margin-right: 40px;
 	font-weight: 500;
@@ -117,15 +128,18 @@ div.about-me-des {
 }
 
  div.profile {
-  color: Black;
-  font-size: 160%;
-  left:200px;
-  right:200px;
- 
-	
+	color: Black;
+	font-size: 160%;
+	left:200px;
+	right:200px;
 }
 
-
-
-
+img.farjana {
+  
+  height: 60%;
+}
+div img{
+	
+	height: 60%;
+}
 
